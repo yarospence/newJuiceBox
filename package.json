@@ -1,0 +1,20 @@
+{
+  "name": "newjuicebox",
+  "version": "1.0.0",
+  "description": "For this project, you will be recreating the Juicebox API from scratch with the new technologies you've learned. You may structure your project as you wish as long as you meet the requirements. Feel free to use one of the previous workshop solutions as reference! Before you start, make sure to read through the rubric to get a sense of what you will be required to do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "hardhat": "^2.12.7",
+    "path": "^0.12.7"
+  }
+}

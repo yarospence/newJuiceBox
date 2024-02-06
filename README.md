@@ -1,16 +1,21 @@
 # Block 34D - Improved Juicebox
 
-For this project, you will be recreating the Juicebox API from scratch with the new technologies you've learned. You may structure your project as you wish as long as you meet the requirements. Feel free to use one of the previous workshop solutions as reference! Before you start, make sure to read through the rubric to get a sense of what you will be required to do.
+For this project, you will be recreating the Juicebox API from scratch with the new technologies you've learned. 
 
-## Submission
+You may structure your project as you wish as long as you meet the requirements.
 
-Please submit a link to your Github repo.
+# In this exercise, we are demonstrating how to create an API 
+we will be build a simple RESTful API using the blockchain as a storage layer
 
 
+# Use every step that we have been taught 
+    -write our smart contract that will act as our storage layer
 
+    -create a function for each:
+     {setPost} {getPost} [getAllPosts] {updatePosts} {deletePosts}
 
-# The project is to be tested on postman using the APIs 
-We will be storing the data on a smart contract using solidity.
+    -write the endpoints that will interact with the smart contract
+        retrieve data securely on the blockchain
 
-We will be using 
-Node.js , Express.js, and Ethers.js to create a decentralized RESTful API.
+    -finally, test API by sending requests using postman 
+        verify and securely retrieve stored data from the blockchain 
