@@ -1,10 +1,5 @@
-# Block 34D - Improved Juicebox
 
-For this project, you will be recreating the Juicebox API from scratch with the new technologies you've learned. 
-
-You may structure your project as you wish as long as you meet the requirements.
-
-# In this exercise, we are demonstrating how to create an API 
+# Demonstrating how to create an API 
 we will be build a simple RESTful API using the blockchain as a storage layer
 
 
@@ -19,3 +14,12 @@ we will be build a simple RESTful API using the blockchain as a storage layer
 
     -finally, test API by sending requests using postman 
         verify and securely retrieve stored data from the blockchain 
+
+
+
+build our database
+
+connect everything to our database
+seed it 
+routes 
+GET & POST
